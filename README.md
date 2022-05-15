@@ -1,2 +1,2 @@
 # Crossword-Solver
-A small project apply tracking algorithm to solve crossword puzzle
+A small project to solve a crossword puzzle using backtracking algorithm.
